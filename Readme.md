@@ -19,7 +19,7 @@
 
 
 
-- 🔭 I’m currently working on [BlogApp](https://github.com/SHAHINSAH/blogaap)
+<!-- - 🔭 I’m currently working on [BlogApp](https://github.com/SHAHINSAH/blogaap) -->
 
 - 🌱 I’m currently learning **DataBase**
 
