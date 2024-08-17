@@ -4,7 +4,7 @@
 <h3 align="center"><mark>A passionate FullStack developer from India </mark></h3>
 
  <div id="header" align="center">
- <a href="https://www.linkedin.com/in/shahinsah2/">
+ <a href="https://www.linkedin.com/in/shahinsah/">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </a>
 </div>
@@ -21,7 +21,7 @@
 
 <!-- - 🔭 I’m currently working on [BlogApp](https://github.com/SHAHINSAH/blogaap) -->
 
-- 🌱 I’m currently learning **DataBase**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHAHINSAH](https://github.com/SHAHINSAH)
 
