@@ -10,7 +10,7 @@
 </div>
 
   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shahinsah2/">
+  <a href="https://www.linkedin.com/in/shahinsah/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h3 align="center">An enthusiastic and ambitious job seeker who aspires to work in a challenging environment which utilizes my knowledge about programming and computer science to develop practical solutions to real life.</h3>
